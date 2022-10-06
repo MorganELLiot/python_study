@@ -5,4 +5,4 @@ print(players[-2:])
 print('\n')
 print('Here are the first 3 players:')
 for player in players[:3]:
-	print(player.title())
+    print(player.title())
